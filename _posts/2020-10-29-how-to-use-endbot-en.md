@@ -3,7 +3,7 @@ title: How To Use EndBot
 author: Tim23
 date: 2020-10-29 15:18:30 +0800
 categories: [EndBot]
-tags: [EndBot,Help]
+tags: [EndBot,Help, English]
 pin: true
 ---
 
@@ -26,6 +26,7 @@ Even though you invite the bot, you can change the permissions by going to `Serv
 It is pretty much it of setting up the bot.
 
 ![image](https://cdn.discordapp.com/attachments/757793165443858463/771259592025833482/unknown.png)
+
 It will look like this when you invite the bot.
 
 **There are so much commands in EndBot! I wanna use only the MUSIC commands.**
