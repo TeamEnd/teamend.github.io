@@ -8,37 +8,35 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: EndBot                           # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Discord Bot EndBot  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+description: >-                         # used by seo meta and the atom feed
+  A discord bot made by Tim23 who likes coding.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://teamend.github.io'
 
-author: your_full_name                  # change to your full name
+author: Tim23                           # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/MOSHED-300x300.gif # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: tim232                      # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: joonseongi                  # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Tim23                           # it will shows as the copyright owner in Footer
+  email: endbot4023@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/joonseongi    # change to your twitter homepage
+    - https://github.com/Tim232         # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/profile.php?id=100041718529074
     # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
